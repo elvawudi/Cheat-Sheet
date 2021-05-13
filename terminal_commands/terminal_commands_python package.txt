@@ -1,0 +1,11 @@
+# install package
+$ conda install pandas Jupiter bottleneck numexpr matplotlib
+
+
+# update package
+$ conda update pandas
+$ conda update --all
+
+
+# delete a condo environment & packages within it
+# $ conda remove —name pandas_playground —all

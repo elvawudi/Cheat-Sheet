@@ -1,0 +1,20 @@
+# get conda version
+ $ conda --version
+
+
+# create a new environment in condo
+$ conda create --name pandas_playground
+
+
+# activate an environment
+$ conda activate pandas_playground
+
+
+# deactivate an active environment, use
+$ conda deactivate
+
+
+# check available condo environments on the computer
+$ conda info --envs
+
+

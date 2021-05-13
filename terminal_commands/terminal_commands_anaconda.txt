@@ -1,0 +1,6 @@
+# launch jupyter notebook
+$ jupyter notebook
+
+
+# shut down the running program in terminal
+Control + C
